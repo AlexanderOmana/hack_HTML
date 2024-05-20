@@ -1,0 +1,46 @@
+div{
+   
+   
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+}
+
+
+.child1{
+    background: #93B5C9;
+    height: 200px;
+    width: 100%;
+}
+.child2{
+    background: #AB2849;
+  height: 300px;
+  width: 100%;
+}
+
+.child3{
+    background: #AB2849;
+    width: 70%;
+    margin-top: 15px;
+    height: 145px;
+   
+}
+.flex1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.child4{
+    background: #AB2849;
+    height: 100px;
+    width: 80%;
+    margin-top: 15px;
+    
+        
+    
+}

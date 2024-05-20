@@ -1,0 +1,132 @@
+
+.flex{
+    background: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+hr {
+    border: none;
+    border-top: 4px solid #000; 
+    border-radius: 15px; 
+    width: 5%; 
+}
+
+h1{
+  font-size: 150px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color:#b88940
+}
+
+h3{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: -30px;
+    }
+
+h4{
+      font-size: 70px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+      margin-top:-10px;
+ }
+
+ h2{
+      font-size: 36px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+      margin-top: -80px;
+}
+h5{
+  font-size: 37px;
+  text-align: center;
+  color: #b88940;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+h6{
+  font-size: 30px;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: -70px;
+  
+  
+ 
+}
+
+.contenido{
+    background: white;
+    width:100%;
+    height:100vh;
+}
+
+.linea1{
+  justify-content: center;
+  width: 100%;
+}
+
+.linea2{
+  width: 100%;
+}
+
+
+.linea3{
+  width: 100%;
+
+}
+
+.linea4{
+  width: 100%;
+}
+ .linea5{
+  width: 100%
+ }
+
+.child3{
+    background: #ffbd59;
+    width: 100%;
+    margin-top: 15px;
+    height: 40px;
+}
+
+.child2{
+  background: white;
+  width: 100%;
+  margin-top: 15px;
+  height: 40px;
+}
+
+.franjas{
+  position: relative;
+  left: 0;
+}
+
+.barrafotos{
+  position: absolute;
+  top: 12px;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+}
+
+img {
+  max-width: 220px;
+  margin-left: 20px;
+}
+
+.precio{
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+linea6{
+  width: 100%;
+}
